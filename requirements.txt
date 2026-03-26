@@ -1,4 +1,5 @@
+streamlit>=1.39
 pandas
 plotly
-streamlit
 openpyxl
+altair<6
